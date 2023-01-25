@@ -1,4 +1,4 @@
-# EvidencePojistenych
+# EvidencePojistenych - Java
 
 Můj druhý projekt, jedná se zároveň o projekt, který jsem měl za úkol vypracovat pro ITnetwork, kde se rekvalifikuji.
 Tak jako u všech mých projektů/výtvorů jsem rád, že to funguje, takže bych do budoucna změnil, zatím pouze komentáře, které bych psal způsobem ,,proč to ten kód dělá".
